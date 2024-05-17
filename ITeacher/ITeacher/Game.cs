@@ -533,7 +533,7 @@ namespace ITeacher
             blocks.Clear();
             FreshLines();
         }
-        //the solution to not being able to use GetRow, Tags, and not wanting ANOTHER GODDAMN LIST: making it += instead. Life is pain, I hate
+        //the solution to not being able to use GetRow, Tags, and not wanting ANOTHER LIST: making it += instead. Life is pain, I hate
         //private void lbxVars_SelectedIndexChanged (object sender, EventArgs e)
         //{
         //    ListBox lbxVars = sender as ListBox;
